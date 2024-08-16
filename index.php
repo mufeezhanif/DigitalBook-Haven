@@ -662,7 +662,7 @@ $result = mysqli_query($connection, $query);
     <script src="js/main.js"></script>
 
     <!--====== Map js ======-->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC3Ip9iVC0nIxC6V14CKLQ1HZNF_65qEQ"></script>
+    
     <script src="js/map-script.js"></script>
 
 </body>
